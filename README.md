@@ -1,4 +1,4 @@
-# Temporal-GLMMs-to-Monitor-Health-Behaviour-at-the-National-Level-Using-Subnational-Data
+# Temporal-GLMMs-to-Monitor-National-Health-Behaviour-Using-Subnational-Observational-Data
 This repository contains SAS code corresponding to the work 'Temporal Generalized Linear Mixed Models to Monitor National Health Behaviour Using Subnational Observational Data' by Floe Foxon, Mark Sembower, and Saul Shiffman.
 
 ## Analyses
